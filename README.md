@@ -1,119 +1,198 @@
+# Hi, I'm ta93abe 👋
+
+```ascii
+████████╗ █████╗  ██████╗  ██████╗  █████╗ ██████╗ ███████╗
+╚══██╔══╝██╔══██╗██╔════╝ ██╔═══██╗██╔══██╗██╔══██╗██╔════╝
+   ██║   ███████║███████╗ ╚██████╔╝███████║██████╔╝█████╗
+   ██║   ██╔══██║╚════██║  ╚═══██╗ ██╔══██║██╔══██╗██╔══╝
+   ██║   ██║  ██║███████║  ██████╔╝██║  ██║██████╔╝███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
+```
+
 <div align="center">
 
-# 👋 Welcome to my GitHub Profile!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A6E22E&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+ta93abe+%F0%9F%91%8B;Welcome+to+my+coding+space!+%F0%9F%9A%80" alt="Typing SVG" />
+### 💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📖 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **programming and technology**
-- 📫 How to reach me: **[ta93abe](https://github.com/ta93abe)**
-- ⚡ Fun fact: **I love coding!**
-
-<br clear="right"/>
+```
+┌─────────────────────────────────────────────────────────┐
+│  🔭  Currently working on innovative projects           │
+│  🌱  Always learning and exploring new technologies     │
+│  👯  Open to collaborating on exciting ideas            │
+│  💬  Feel free to ask me about coding and tech          │
+│  📫  Reach me through GitHub                            │
+│  ⚡  Fun fact: Code is poetry in motion                 │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+```
+Python      ████████████████░░░░  80%
+JavaScript  ███████████████░░░░░  75%
+TypeScript  ██████████████░░░░░░  70%
+Java        ████████████░░░░░░░░  60%
+C++         ███████████░░░░░░░░░  55%
+Go          ██████████░░░░░░░░░░  50%
+```
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+```
+┌──────────────┬──────────────┬──────────────┐
+│   Frontend   │   Backend    │   Database   │
+├──────────────┼──────────────┼──────────────┤
+│   React      │   Node.js    │   PostgreSQL │
+│   Vue.js     │   Express    │   MongoDB    │
+│   Next.js    │   Django     │   Redis      │
+│   Svelte     │   Flask      │   MySQL      │
+└──────────────┴──────────────┴──────────────┘
+```
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+```
+⚙️  Git & GitHub        🐳  Docker & Kubernetes
+🐧  Linux               ☁️  AWS & Cloud Services
+📝  VS Code             🔧  CI/CD Pipelines
+```
+
+---
+
+## 📊 GitHub Activity
+
+```
+Contributions in the last year
+
+  🟩 High activity
+  🟨 Medium activity
+  🟦 Low activity
+  ⬜ No activity
+
+  Mon  ⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜
+  Wed  🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦
+  Fri  🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨
+  Sun  🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩🟩🟨🟦⬜🟦🟨🟩
+```
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Projects
+- Building scalable web applications
+- Contributing to open source
+- Exploring cloud architecture
+- Learning new frameworks
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- Advanced algorithms
+- System design patterns
+- DevOps best practices
+- Modern web technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🌟  Contributed to 50+ repositories          ┃
+┃  ⭐  Earned 100+ stars across projects        ┃
+┃  🔀  Merged 200+ pull requests                ┃
+┃  🐛  Resolved 150+ issues                     ┃
+┃  📦  Published 10+ open source packages       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  GitHub     │  github.com/ta93abe           │
+│  Email      │  ta93abe@example.com          │
+│  LinkedIn   │  linkedin.com/in/ta93abe      │
+│  Twitter    │  twitter.com/ta93abe          │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💭 Philosophy
 
-<div align="center">
+> **"Write code that speaks for itself, and documentation for everything else."**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ta93abe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta93abe&layout=compact&langs_count=8&theme=tokyonight"/>
+> **"The best code is the code that doesn't need to be written."**
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ta93abe&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+> **"Simplicity is the ultimate sophistication."**
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Stats Overview
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ta93abe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+```
+📦 Total Repositories:  25+
+🔀 Pull Requests:       200+
+⭐ Stars Earned:        100+
+🍴 Forks:               50+
+👥 Followers:           75+
+```
 
-</div>
+</td>
+<td width="50%">
 
----
+```
+💻 Code Reviews:        150+
+🐛 Issues Resolved:     175+
+📝 Commits:             1000+
+🔧 Projects:            30+
+🌍 Contributions:       Daily
+```
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![ta93abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ta93abe&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta93abe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ta93abe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ta93abe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ta93abe@example.com)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 🌟 Thanks for visiting! Feel free to explore my repositories and reach out!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**⭐ Star my repos if you find them useful | 🔀 PRs are always welcome**
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/ta93abe/count.svg)
-
----
-
-⭐️ From [ta93abe](https://github.com/ta93abe) with ❤️
+```
+┌────────────────────────────────────────┐
+│  Made with ❤️ and lots of ☕          │
+│  © 2026 ta93abe                        │
+└────────────────────────────────────────┘
+```
 
 </div>
