@@ -41,3 +41,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta93abe&layout=compact&hide_border=true" alt="Top languages" />
 </p>
+
+### /dev/null
+<p align="center">
+
+[![/dev/null activity](https://dev-null.sh/@ta93abe/graph.svg)](https://dev-null.sh/@ta93abe)
+
+</p>
